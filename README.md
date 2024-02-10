@@ -16,4 +16,11 @@ Abstractive Summarization: In contrast to extractive summarization, abstractive 
 <br>
 There is another type of text summarizer which is called Hybrid Text Summarization:-<br>
  hybrid summarization  combines the precision of extractive methods (which ensure that the summary is based on actual content from the source) with the expressiveness of abstractive methods (which can generate more fluent and human-like summaries).
+<br>
+<br>
+The goal of this project is to make all types of summaries and compare their accuracy.
+
+<br><br>
+List of tools and technologies to be used :<br><br>
+ Python, NLP Libraries and Frameworks,  Dataset, ML Models,Google colab.
 
