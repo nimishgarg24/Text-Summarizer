@@ -27,3 +27,4 @@ List of tools and technologies to be used :<br><br>
 
 ![image](https://github.com/nimishgarg24/Text-Summarizer/assets/118631488/51458e47-1f98-4826-ac20-ea294f811e30)
 ![image](https://github.com/nimishgarg24/Text-Summarizer/assets/118631488/f9d8e10b-3b5a-4684-a405-492bf544c04c)
+![image](https://github.com/nimishgarg24/Text-Summarizer/assets/118631488/73266a42-1413-4d22-a49b-e8a4aac91e06)
