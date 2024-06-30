@@ -24,3 +24,4 @@ The goal of this project is to make all types of summaries and compare their acc
 List of tools and technologies to be used :<br><br>
  Python, NLP Libraries and Frameworks,  Dataset, ML Models,Google colab.
 
+![image](https://github.com/nimishgarg24/Text-Summarizer/assets/118631488/51458e47-1f98-4826-ac20-ea294f811e30)
